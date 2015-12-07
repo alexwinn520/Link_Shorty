@@ -1,3 +1,2 @@
-# Link_Shorty
-# Link_Shorty
-# Link_Shorty
+# Link_Shorty shortens your links, shorty.
+
